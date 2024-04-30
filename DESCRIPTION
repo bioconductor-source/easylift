@@ -1,6 +1,6 @@
 Package: easylift
 Title: An R package to perform genomic liftover
-Version: 1.1.0
+Version: 1.2.0
 Date: 2023-10-24
 Authors@R: 
     c(
